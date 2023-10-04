@@ -1,2 +1,2 @@
-# thesis
-Code from my Masters Thesis
+# masters_thesis
+Files for the masters thesis
